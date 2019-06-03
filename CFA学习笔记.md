@@ -5,6 +5,9 @@
 - [Contents](#contents)
 - [Ethical and Professional Standards](#ethical-and-professional-standards)
 - [Quantitative Methods](#quantitative-methods)
+ - [1. Time value of money](#1.-time-value-of-money)
+ - [2. Discounted cash flow applications](#2.-discounted-cash-flow-applications)
+ - [3. Statistical concepts and market returns](#3.-statistical-concepts-and-market-returns)
 - [Corporate Finance](#corporate-finance)
 - [Fixed Income](#fixed-income)
 
