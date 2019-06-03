@@ -4,6 +4,7 @@
 ## Contents
 - [Contents](#contents)
 - [Ethical and Professional Standards](#ethical-and-professional-standards)
+  - [Ethics and trust in the investment profession](#ethics-and-trust-in-the-investment-profession)
 - [Quantitative Methods](#quantitative-methods)
   - [Time value of money](#time-value-of-money)
   - [Discounted cash flow applications](#discounted-cash-flow-applications)
@@ -20,7 +21,7 @@
 
 ## Ethical and Professional Standards
 
-### 1.
+### Ethics and trust in the investment profession
 
 ## Quantitative Methods
 
@@ -66,22 +67,22 @@ EAY (Effective annual yield)= (1+HPY)^365/n - 1
 
 Bond equivalent yield = 2* semiannual discount rate = [(1+EAY)^0.5-1]*2
 
-### 3. Statistical concepts and market returns
+### Statistical concepts and market returns
 
 
 The sharp ratio = (rp-rf)/σp
 
-### 4. Probability concepts
+### Probability concepts
 
 Bayes' formula
 
-### 5. Common probability distributions
+### Common probability distributions
 
 Monte carlo simulation
 
 Historical simulation
 
-### 6. Sample amd estimation
+### Sample amd estimation
 
 Time-series data
 Cross-sectional data
@@ -99,9 +100,9 @@ Bias:
 - Time-period bias
 
 
-### 7. Hypothesis testing
+### Hypothesis testing
 
-### 8. Technical analysis
+### Technical analysis
 
 
 
@@ -109,9 +110,9 @@ Bias:
 
 ## Fixed Income
 
-### 1. Bond prices, yields, and ratings
+### Bond prices, yields, and ratings
 
-#### 1.1 Feature of a fixed-income security
+#### 1. Feature of a fixed-income security
 
 - Issuer of the bond
 - Maturity date of the bond
@@ -119,14 +120,14 @@ Bias:
 - Coupon rate and frequency
 - Currency
 
-##### 1.1.1 Issuer of Bond
+##### 1.1 Issuer of Bond
 - Corporations
 - Sovereign national governments(U.S. and other countries)
 - Nonsorvereign governments(State or city)
 - Quasi-government entities(Freddy and Fannie)
 - Supranational entities
 
-##### 1.1.2 Bond Maturities
+##### 1.2 Bond Maturities
 Term to maturity(tenor): the remaining time until maturity
 
 Perpetual bonds: bonds with no maturity date
@@ -135,7 +136,7 @@ Money market securities: YTM <=1yr
 
 Capital market securities: YTM >1yr
 
-##### 1.1.3 Par Value
+##### 1.3 Par Value
 
 Principle repaid at maturity
 
@@ -145,18 +146,18 @@ Principle repaid at maturity
 
 - Discount: Price < Par
 
-##### 1.1.4 Coupon Payments
+##### 1.4 Coupon Payments
 
 Conventional bond (Plain vanilla): A bond with a fixed coupon rate
 
 Zero-coupon bonds (pure discount bonds): Bonds paying no interests prior to maturity
 
-##### 1.1.5 Currencies
+##### 1.5 Currencies
 Dual-currency bond: Bond with coupon interest in one currency and principle in another
 
 Currency option bond: Bond with a choice for bondholders to decide which currency tehy want to receive
 
-#### 1.2 Bond indenture
+#### 2. Bond indenture
 
 Trust deed(bond indenture契约): legal contract between the bond issuer and bondholders
 
@@ -168,7 +169,7 @@ Covenants(契约): Provisions in the bond indenture
 
 - Affirmative covenants: no restrictions on issuer's operating decision
 
-#### 1.3 Issuance and trading of fixed-income securities
+#### 3. Issuance and trading of fixed-income securities
 
 Bond Issue country:
 
@@ -194,7 +195,7 @@ Legal and regulatory issues in a trust:
 -  Additional features increasing the repayment probability
 -  Covenants including actions to take and prohibited from taking
 
-##### 1.3.1 Issuing Entities
+##### 3.1 Issuing Entities
 
 Treasury of the country -> sovereign bonds
 
@@ -204,7 +205,7 @@ Special purpose entities(in U.S.)/vehicles(in Europe)(called bankruptcy remote v
 
 SPE可以比相同的公司债发行更低的利率，因为SPE持有资产，即使公司破产了也能支付。
 
-##### 1.3.2 Sources of Repayment
+##### 3.2 Sources of Repayment
 
 Sovereign bonds <- tax receipts of the country
 
@@ -214,7 +215,7 @@ Corporate bonds <- cash from firm's operations
 
 Securitized bonds <- cash flow from the financial assets by SPE
 
-##### 1.3.3 Collateral and Credit Enhancements
+##### 3.3 Collateral and Credit Enhancements
 
 Collateral: assets pledged to support a bond issue
 
@@ -252,7 +253,7 @@ External methods:
 - bank guarantees
 - letter of credit
 
-#### 1.4 Taxation of Bond Income
+#### 4. Taxation of Bond Income
 
 
 Bonds issued by municipal governments in the U.S. exempt from income tax
