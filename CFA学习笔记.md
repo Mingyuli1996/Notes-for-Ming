@@ -8,8 +8,14 @@
  - [1. Time value of money](#1.-time-value-of-money)
  - [2. Discounted cash flow applications](#2.-discounted-cash-flow-applications)
  - [3. Statistical concepts and market returns](#3.-statistical-concepts-and-market-returns)
+ - [4. Probability concepts](#4.-probability-concepts)
+ - [5. Common probability distributions](#5.-common-probability-distributions)
+ - [6. Sample amd estimation](#6.-sample-and-estimation)
+ - [7. Hypothesis testing](#7.-hypothesis-testing)
+ - [8. Technical analysis](#8.-technical-analysis)
 - [Corporate Finance](#corporate-finance)
 - [Fixed Income](#fixed-income)
+ - [1. Bond prices, yields, and ratings](#1.-bond-prices,-yields,-and-ratings)
 
 
 ## Ethical and Professional Standards
