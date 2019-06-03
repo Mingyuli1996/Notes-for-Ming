@@ -15,6 +15,7 @@
   - [Hypothesis testing](#hypothesis-testing)
   - [Technical analysis](#technical-analysis)
 - [Corporate Finance](#corporate-finance)
+  - [Corporate governance](#corporate-governance) 
 - [Fixed Income](#fixed-income)
   - [Bond prices, yields, and ratings](#bond-prices,-yields,-and-ratings)
 
@@ -108,6 +109,66 @@ Bias:
 
 ## Corporate Finance
 
+### Corporate governance
+
+#### 1. Shareholder Theory
+
+##### 1.1 Stakeholder:
+
+- Shareholder: claim to net asset after liability
+- Senior managers
+- Employee
+- Creditor: including owners of bonds and banks
+- Supplier
+
+##### 1.2 Principal-agent Conflict:
+
+- Shareholders and managers or directors : information asymmetry
+- Single and group of shareholders
+- Creditors and shareholders
+- Shareholders and other stakeholders
+
+##### 1.3 Stakeholder management 
+
+Infrastructure:
+
+- Legal infrastructure
+- Contractual infrastructure
+- Organizational infrastructure
+- Governmental infrastructure
+
+Election:
+
+- Member
+  - Majority voting
+  - Cumulative voting 
+- Board
+  - All member same meeting
+  - Staggered board
+
+##### 1.4 Board of directors
+
+Board structure:
+
+- One tier
+  - Internal/Executive directors
+  - External board members(non-executive directors): employee(mostly)
+- Two tier
+  - Supervisory board
+  - Management board:
+     - Typically led by CEO
+     - Lead independent directors 
+
+Board responsibility
+
+Board committee:
+
+- Audit committee
+- Governance committee
+- Nominations committee
+- Compensation/remuneration committee
+- Risk committee
+
 ## Fixed Income
 
 ### Bond prices, yields, and ratings
@@ -128,6 +189,7 @@ Bias:
 - Supranational entities
 
 ##### 1.2 Bond Maturities
+
 Term to maturity(tenor): the remaining time until maturity
 
 Perpetual bonds: bonds with no maturity date
