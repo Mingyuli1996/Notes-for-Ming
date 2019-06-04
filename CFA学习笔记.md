@@ -65,13 +65,25 @@ Ethical responsibilities required by the Code and Standards
 
 ### Introduction to the Global Investment Performance Standards
 
+The reason why the GIPS standards were created
+
+The parties the GIPS standards apply to
+
+The group served by the standards
+
+Construction and purpose of composites in performance reporting
+
+The requirements for verification
+
 ### The GIPS Standards
 
 Key features of the GIPS standards
 
 Fundamentals of compliance
 
+Scope of the GIPS standards
 
+Conflict between the GIPS standards and local regulations
 
 9 major sections of the GIPS standards
 
