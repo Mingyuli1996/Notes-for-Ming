@@ -37,15 +37,43 @@
 
 ### Ethics and trust in the investment profession
 
+Ethics:
 
+Challenges to ethical behavior:
+
+Need for ethical standard:
+
+Ethical and legal standards
+
+Framework for ethical decision making
 
 ### Code of Ethics and Standards of Professional Conduct
 
+The structure of the CFA Institute Professional Conduct Program
+
+The process for the enforcement of the Code and Standards
+
+6 components of the Code of Ethics
+
+7 standards of Prodessional Conduct
+
+Ethical responsibilities required by the Code and Standards
+
 ### Guidance for Standards
+
+
 
 ### Introduction to the Global Investment Performance Standards
 
 ### The GIPS Standards
+
+Key features of the GIPS standards
+
+Fundamentals of compliance
+
+
+
+9 major sections of the GIPS standards
 
 ## Quantitative Methods
 
