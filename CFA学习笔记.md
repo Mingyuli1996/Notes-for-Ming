@@ -100,9 +100,11 @@ Fundamentals of compliance
 
 Scope of the GIPS standards
 
-Conflict between the GIPS standards and local regulations
+#### Conflict between the GIPS standards and local regulations
 
-9 major sections of the GIPS standards
+In any case where country-specific regulations conflict with GIPS, firms must follow the applicable country-specific regulations but must also disclose the nature of the conflict with GIPS
+
+#### 9 major sections of the GIPS standards
 
 ## Quantitative Methods
 
