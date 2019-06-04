@@ -37,15 +37,32 @@
 
 ### Ethics and trust in the investment profession
 
-Ethics:
+#### 1. Ethics explaination
+Ethics: a set of shared beliefs about what is good or acceptance behavior and what is bad or unacceptable behavior
 
-Challenges to ethical behavior:
+improve outcomes for stakeholders
 
-Need for ethical standard:
+#### 2. Challenges to ethical behavior
 
-Ethical and legal standards
+个人会倾向于过高平均追剧的道德水平，在决定他们的道德标准时过度强调他们自己的个人特点。
 
-Framework for ethical decision making
+Situational influences在道德约束方面比内在的个人品质更重要, 其中包括 social pressure from others
+
+#### 3. Need for ethical standard
+
+
+
+
+#### 4. Ethical and legal standards
+
+Ethical decisions require more judgment and consideration of the impact of behavior on many stakeholders compared to legal decisions.
+
+#### 5. Framework for ethical decision making
+
+1. Identify
+2. Consider
+3. Decide and act
+4. Reflect
 
 ### Code of Ethics and Standards of Professional Conduct
 
