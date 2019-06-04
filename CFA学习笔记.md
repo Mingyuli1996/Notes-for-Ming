@@ -60,7 +60,7 @@ HPR (Holding period return)= (ending value + cash flow received)/beginning value
 
 Money-weighted rate of return: IRR of the cash flow
 
-Time-weighted rate of return = [(1+HPR1)*(1+HPR2)...]^1/n-1
+Time-weighted rate of return = [(1+HPR1)*(1+HPR2)...]^(1/n-1)
 
 It is the geometric mean return.
 
@@ -72,7 +72,7 @@ BDY (Bank discount yield): (D/F)*(360/t)
 
 HPY (Holding period yield)=(P1 + D1)/P0 - 1
 
-EAY (Effective annual yield)= (1+HPY)^365/n - 1
+EAY (Effective annual yield)= (1+HPY)^(365/n) - 1
 
 **Money market yield (CD equivalent yield): rMM = HPY * (360/t) = 360 * BDY/(360 - t * BDY)**
 
@@ -80,18 +80,58 @@ Bond equivalent yield = 2* semiannual discount rate = [(1+EAY)^0.5-1]*2
 
 ### Statistical concepts and market returns
 
+Population mean, sample mean are all arithmetic means.
+
+几何平均数经常用于计算多期复合增长率。
+
+Geometric mean=(X1 * X2 * ...* Xn)^(1/n)
+
+Harmonic mean 用于计算平均每股购买成本
+
+Quantile:
+
+- Quartile-- quarters
+- Quintile-- fifths
+- Decile-- tenths
+- Percentile-- percents
+
+CV (coefficient of variation) = standard deviation / average value
 
 The sharp ratio = (rp-rf)/σp
 
+Skewness:
+
+- Symmetrical
+
+Mean = Median = Mode
+
+- Positive(right) skew
+
+Mean > Median > Mode
+
+- Negative(left) skew
+
+Mean < Median < Mode
+
 ### Probability concepts
 
-Bayes' formula
+Mutually exclusive: cannot happen at the same time
+
+Exhaustive: include all possible outcomes
+
+P(A | B)=P(AB)/P(B)
+
+Correlation coefficient= Covarience/ (sigma(A)+sigma(B))
 
 ### Common probability distributions
 
-Monte carlo simulation
+Monte carlo simulation: randomly generated values for risk factors
 
-Historical simulation
+limitation: Complex, no better than assumption used
+
+Historical simulation: randomly selected past changes in risk factors
+
+limitation: cannot consider the effects of significant events that did not occur in the sample period
 
 ### Sample amd estimation
 
@@ -113,8 +153,34 @@ Bias:
 
 ### Hypothesis testing
 
+Type | Errors: rejection of null when it is true
+
+Type || Errors: failure to reject the null when it is false
+
+
 ### Technical analysis
 
+Price-based indicator:
+
+- Moving average lines
+- Bollinger bands
+
+Non-price-based indicator:
+
+- Sentiment indicator
+	- Put/call ratio
+	- Volatility Index
+	- Margin debt
+	- Short interest ratio
+
+- Flow of funds
+	- Arms index or short-term trading index
+	- Margin debt
+	- Mutual fund cash position
+	- New equity issuance
+
+Cycle:
+Elliott Wave Patterns
 
 
 ## Corporate Finance
