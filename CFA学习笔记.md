@@ -29,6 +29,8 @@
   - [Technical analysis](#technical-analysis)
 - [Corporate Finance](#corporate-finance)
   - [Corporate governance](#corporate-governance) 
+
+- [Portfolio Management](#portfolio-management)
 - [Fixed Income](#fixed-income)
   - [Bond prices, yields, and ratings](#bond-prices,-yields,-and-ratings)
 
@@ -316,6 +318,79 @@ Board committee:
 - Nominations committee
 - Compensation/remuneration committee
 - Risk committee
+
+
+## Portfolio Management
+
+### Overview
+
+#### 1. Definition
+
+A diversified portfolio produces reduced risk for a given level of expected return, compared to invesing in an individual security.
+
+#### 2. Types of investment management clients and their characteristics:
+
+|Investor Type|Risk Tolerance|Investment Horizon|Liquidity Needs|Income Needs|
+|----|----|----|----|----|
+|Individuals|Depends on individual|Depends on individual|Depends on individual|Depends on individual|
+|Banks|Low|Short|High|Pay interest|
+|Endowments|High|Long|Low|Spending level|
+|Insurance|Low|Long-Life;Short-P&C|High|Low|
+|Mutual funds|Depends on fund|Depends on fund|High|Depends on fund|
+|Defined benefit pension|High|Long|Low|Depends on age|
+
+
+#### 3. Portfolio management process
+
+- Planning:
+	- Determine client needs and circumstances
+	- Create, review and update investment policy statement(IPS)
+- Execution:
+	- Construct portfolio
+	- Identify securities
+- Feedback: 
+	- Monitor and rebalance the portfolio
+	- Measure and report performance relative to the benchmark
+
+#### 4. Type of funds
+
+- Mutual funds
+- Exchange-traded funds
+- Seperately managed accounts
+- Hedge funds:2%,20%
+- Buyout funds
+- Venture capital funds
+
+
+### Introduction
+
+
+
+### Risk and return
+
+CAPM Assumption:
+
+- Investors are risk averse, utility maximizing, and rational.
+- Markets are free of frictions like costs and taxes.
+- All investors plan using the same time period.
+- All investors have the same expectations of security returns.
+- Investments are infinitely divisible.
+- Prices are unaffected by an investor's trades.
+
+Sharp ratio = 
+
+M-squared = 
+
+Treynor measure = 
+
+Jensen's alpha = 
+
+
+
+### Basic of portfolio planning and construction
+
+
+
 
 ## Fixed Income
 
