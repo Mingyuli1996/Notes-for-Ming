@@ -31,8 +31,13 @@
   - [Corporate governance](#corporate-governance) 
 
 - [Portfolio Management](#portfolio-management)
+	- [Overview](#overview)
+	- [Introduction](#introduction)
+	- [Risk and return](#risk-and-return)
+	- [Basic of portfolio planning and construction](#basic-of-portfolio-planning-and-construction)
 - [Fixed Income](#fixed-income)
   - [Bond prices, yields, and ratings](#bond-prices,-yields,-and-ratings)
+- [Alternative Investments](#alternative-investments)
 
 
 ## Ethical and Professional Standards
@@ -79,6 +84,7 @@ The process for the enforcement of the Code and Standards
 Ethical responsibilities required by the Code and Standards
 
 ### Guidance for Standards
+
 
 
 
@@ -377,13 +383,13 @@ CAPM Assumption:
 - Investments are infinitely divisible.
 - Prices are unaffected by an investor's trades.
 
-Sharp ratio = 
+Sharp ratio = (Rp – Rf)/σp
 
-M-squared = 
+M-squared = (Rp – Rf)(σm/σp) – (Rm – Rf)
 
-Treynor measure = 
+Treynor measure = (Rp – Rf)/ßp
 
-Jensen's alpha = 
+Jensen's alpha =  Rp – [Rf + ßp(Rm – Rf)]
 
 
 
@@ -545,7 +551,7 @@ Bonds issued by municipal governments in the U.S. exempt from income tax
 
 
 
-
+## Alternative Investments
 
 
 
