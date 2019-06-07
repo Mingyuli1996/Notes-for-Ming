@@ -38,6 +38,13 @@
 - [Fixed Income](#fixed-income)
   - [Bond prices, yields, and ratings](#bond-prices,-yields,-and-ratings)
 - [Alternative Investments](#alternative-investments)
+	- [Hedge funds](#hedge-funds)
+	- [Private equity funds](#private-equity-funds)
+	- [Real estate](#real-estate)
+	- [Commodities](#commodities)
+	- [Infrastructure](#infrastructure)
+	- [Other alternative investments](#other-alternative-investments)
+	- [Due diligence](due-diligence)
 
 
 ## Ethical and Professional Standards
@@ -553,8 +560,31 @@ Bonds issued by municipal governments in the U.S. exempt from income tax
 
 ## Alternative Investments
 
+Categories of alternative investments:
+
+- Hedge funds
+- Private equity funds
+- Real estate
+- Commodities
+- Infrastructure
+- Other
+
+### Hedge funds
+
+### Private equity funds
+
+### Real estate
+
+### Commodities
+
+### Infrastructure
+
+### Other alternative investments
+
+### Due diligence
 
 
+intangible collectible assets like fine wines, stamps, automobiles, antique furniture, art and so on
 
 
 
