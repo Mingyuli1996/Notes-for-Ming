@@ -571,11 +571,25 @@ Categories of alternative investments:
 
 ### Hedge funds
 
+
+
 ### Private equity funds
 
 ### Real estate
 
 ### Commodities
+
+Valuation:
+
+Future price = spot price * (1+ risk-free rate) + storage costs - convenience yield
+
+Convenience yield: value of having the physical commodity for use over the period of the futures contract
+
+Sources of commodities futures returns:
+
+- Roll yield
+- Collateral yield
+- Change in spot prices
 
 ### Infrastructure
 
@@ -583,6 +597,12 @@ Categories of alternative investments:
 
 ### Due diligence
 
+1. Organization
+2. Porfolio management
+3. Operations and controls
+4. Risk management
+5. Legal review
+6. Fund terms
 
 intangible collectible assets like fine wines, stamps, automobiles, antique furniture, art and so on
 
