@@ -571,6 +571,10 @@ Categories of alternative investments:
 
 ### Hedge funds
 
+Return objectives:
+
+- Absolute basis
+- Relative basis
 
 
 ### Private equity funds
