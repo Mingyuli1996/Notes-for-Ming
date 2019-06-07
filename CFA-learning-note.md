@@ -577,7 +577,44 @@ Return objectives:
 - Relative basis
 
 
+Strategies:
+
+- Event-driven strategy
+	- Merger arbitrage
+	- Distressed/restructuring
+	- Activist shareholder
+	- Special situations
+
+- Relative value strategy
+	- Convertible arbitrage fixed income
+	- Asset-back fixed income
+	- General fixed income
+	- Volatility
+	- Multi-strategy
+
+- Macro strategy
+	- Global economic trends and events
+- Equity hedge fund strategy
+	- Market neutral
+	- Fundemental growth
+	- Fundemental value
+	- Quantitative directional
+	- Short bias
+
+Benefits and risks
+
+Due diligence
+
+Valuation
+
 ### Private equity funds
+
+Strategies:
+
+- Leveraged buyouts(LBOs)
+- Venture capital
+- Developmental capital: PIPEs
+- Distressing investing
 
 ### Real estate
 
