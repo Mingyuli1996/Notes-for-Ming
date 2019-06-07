@@ -587,9 +587,11 @@ Convenience yield: value of having the physical commodity for use over the perio
 
 Sources of commodities futures returns:
 
-- Roll yield
-- Collateral yield
-- Change in spot prices
+- Roll yield: 现货和期货的价格差，或者不同期限的期货的价格差
+- Collateral yield: interest earned on collateral
+- Change in spot prices: 现货的价格变动
+
+总期货价格变动包括现货的价格变动，和现货和期货的价格差。
 
 ### Infrastructure
 
