@@ -8,6 +8,15 @@
 这一周把所有的notes都看完，下一周把三套练习卷全做完，复习错题。
 
 完成进度：
+Corporate finance题目做完，
+Quantitative methods学完，
+Portfolio management学完，
+Economics学完，
+Alternative Investment学完。
+
+Ethics过了一遍，GIPS还没细学。
+
+Financial report还没过一遍。
 
 
 ## Contents
@@ -29,12 +38,16 @@
   - [Technical analysis](#technical-analysis)
 - [Corporate Finance](#corporate-finance)
   - [Corporate governance](#corporate-governance) 
+  - [Fintech](#fintech)
 
 - [Portfolio Management](#portfolio-management)
 	- [Overview](#overview)
 	- [Introduction](#introduction)
 	- [Risk and return](#risk-and-return)
 	- [Basic of portfolio planning and construction](#basic-of-portfolio-planning-and-construction)
+
+- [Equity Investment](#equity-investment)
+
 - [Fixed Income](#fixed-income)
   - [Bond prices, yields, and ratings](#bond-prices,-yields,-and-ratings)
 - [Alternative Investments](#alternative-investments)
@@ -332,6 +345,110 @@ Board committee:
 - Compensation/remuneration committee
 - Risk committee
 
+### Fintech
+
+Fintech: technology innovation in the design and delivery of financial products and services
+
+#### 1. Big data
+
+3V(Volumn, Vevlocity, Variety)
+
+Traditional data: financial report
+Alternative data: individual, business, sensor
+
+#### 2. Machine learning
+
+training dataset, validation dataset
+
+ML Approaches:
+
+- identify relationships between variables
+- detect patterns or trends
+- create structure from data
+
+Methods:
+
+- Supervised learning
+- Unsupervised learning
+
+Challenges:
+
+- Overfitting the data
+- Over-trained models
+- Black box
+
+#### 5. Data science
+
+Data Processing Methods:
+
+- Capture
+- Curation
+- Storage
+- Search
+- Transfer
+
+Data Visualization
+
+#### 6. Application
+
+Text analytics: derive meaning from large, unstructured text- or voice-based data
+
+Natural Language Processing: application of text analytics whereby computers analyze and interpret human language
+
+##### Robo-Advisory Services
+
+Investment solutions through online platforms:
+
+- Asset allocation
+- Rebalancing
+- Tax strategies
+- Trade execution
+
+Low-cost and low account minimums
+
+Cover both active and passive styles but passive styles more common
+
+Two major types:
+
+- Fully automated digital wealth managers
+- Adviser-assisted digital wealth managers
+
+##### Risk Analysis
+
+Stress testing and risk assessment involves a vast amount of risk data
+
+Increased interest in monitoring risk in real time
+
+Insights into changing market conditions
+
+Assess data quality
+
+Scenario analysis: commonly what-if analysis
+
+##### Algorithmic Trading
+
+Computerized trading based on pre-specified rules and guidelines
+
+Large orders sliced into smaller pieces; executed across different exchanges/trading venues
+
+Benefits:speed of execution, anonymity, lower transaction costs
+
+High frequency trading(HFT)
+
+#### Distributed Ledger Technology
+
+Benefits:
+
+- Accuracy, transparency and security
+- Faster transfer of ownership
+- Peer-to-peer interactions
+
+Blockchain:
+
+- Information is recorded sequentially within blocks
+- Blocks are chained and secured using cryptography
+- Each block contains a grouping of transactions and a secure link to the previous block
+
 
 ## Portfolio Management
 
@@ -402,7 +519,28 @@ Jensen's alpha =  Rp – [Rf + ßp(Rm – Rf)]
 
 ### Basic of portfolio planning and construction
 
+## Equity Investment
 
+Roles of broker,dealer and exchanges
+Behavior effects
+Rebalance and reconstitution
+market order
+
+market efficiency
+
+market regulation
+
+weighting methods of an index
+
+market index usage
+
+Depository receipt(DR)
+
+Operating concern:
+
+- Fulfill regulatory reqirements
+- Improve capital adequacy ratios
+- Ensure debt covenants
 
 
 ## Fixed Income
@@ -593,7 +731,7 @@ Strategies:
 	- Multi-strategy
 
 - Macro strategy
-	- Global economic trends and events
+	- Global economic trends and events: Top-down approach
 - Equity hedge fund strategy
 	- Market neutral
 	- Fundemental growth
@@ -607,6 +745,10 @@ Due diligence
 
 Valuation
 
+Traded securities most conservative to use the price at which a position could be closed.
+
+Bid price for long positon, ask price for short position
+
 ### Private equity funds
 
 Strategies:
@@ -617,6 +759,12 @@ Strategies:
 - Distressing investing
 
 ### Real estate
+
+Valuation:
+
+- Comparable sales approach
+- Income approach
+- Cost apporach
 
 ### Commodities
 
