@@ -3,21 +3,6 @@
 
 李明宇
 
-学习计划：
-
-这一周把所有的notes都看完，下一周把三套练习卷全做完，复习错题。
-
-完成进度：
-Corporate finance题目做完，
-Quantitative methods学完，
-Portfolio management学完，
-Economics学完，
-Alternative Investment学完。
-
-Ethics过了一遍，GIPS还没细学。
-
-Financial report还没过一遍。
-
 
 ## Contents
 - [Contents](#contents)
@@ -49,7 +34,10 @@ Financial report还没过一遍。
 - [Equity Investment](#equity-investment)
 
 - [Fixed Income](#fixed-income)
-  - [Bond prices, yields, and ratings](#bond-prices,-yields,-and-ratings)
+	- [Bond prices, yields, and ratings](#bond-prices,-yields,-and-ratings)
+
+- [Derivative](#derivative)  
+	- [Swap](#swap)
 - [Alternative Investments](#alternative-investments)
 	- [Hedge funds](#hedge-funds)
 	- [Private equity funds](#private-equity-funds)
@@ -259,6 +247,10 @@ Type || Errors: failure to reject the null when it is false
 
 
 ### Technical analysis
+Reserval pattern
+
+Target price = Neckline * 2 - Head
+
 
 Price-based indicator:
 
@@ -285,6 +277,19 @@ Elliott Wave Patterns
 
 ## Corporate Finance
 
+### CAPM Model
+
+Cost of equity = Risk-free rate + Equity beta × (Equity risk premium + Country risk premium)
+
+不考虑sovereign yield
+
+
+Leverage beta
+
+Unleverage beta: Leverage beta/(1+(1-tax rate)*debt-to-equity ratio
+
+
+
 ### Corporate governance
 
 #### 1. Shareholder Theory
@@ -297,12 +302,16 @@ Elliott Wave Patterns
 - Creditor: including owners of bonds and banks
 - Supplier
 
+Under the stakeholder theory, corporate governance is most consistent with a system of internal controls and procedures by which individual companies are managed.
+
 ##### 1.2 Principal-agent Conflict:
 
 - Shareholders and managers or directors : information asymmetry
 - Single and group of shareholders
 - Creditors and shareholders
 - Shareholders and other stakeholders
+
+Dual-class: promoting company stability by insulating management from short-term investor pressures摆脱短期压力
 
 ##### 1.3 Stakeholder management 
 
@@ -322,6 +331,9 @@ Election:
   - All member same meeting
   - Staggered board
 
+
+
+
 ##### 1.4 Board of directors
 
 Board structure:
@@ -329,6 +341,8 @@ Board structure:
 - One tier
   - Internal/Executive directors
   - External board members(non-executive directors): employee(mostly)
+
+  
 - Two tier
   - Supervisory board
   - Management board:
@@ -344,6 +358,11 @@ Board committee:
 - Nominations committee
 - Compensation/remuneration committee
 - Risk committee
+
+### Capital Budgeting
+
+most appropriate treatment of cash flows in capital budgeting
+A project is evaluated using its incremental cash flows on an after-tax basis.
 
 ### Fintech
 
@@ -516,12 +535,20 @@ Treynor measure = (Rp – Rf)/ßp
 Jensen's alpha =  Rp – [Rf + ßp(Rm – Rf)]
 
 
-
 ### Basic of portfolio planning and construction
+
+
+### Risk management
 
 ## Equity Investment
 
 Roles of broker,dealer and exchanges
+
+Broker: commission
+
+Dealer: bid ask, carry
+
+
 Behavior effects
 Rebalance and reconstitution
 market order
@@ -532,7 +559,20 @@ market regulation
 
 weighting methods of an index
 
-market index usage
+### market index
+
+- Price return index: VPRIT = VPRI0 (1 + PRI1)(1 + PRI2) … (1 + PRIT)
+- Total return index: VTRIT = VTRI0 (1 + TRI1)(1 + TRI2) … (1 + TRIT)
+
+
+- Price weighted index
+- Market capitalization weighted index
+- Equal weighted index
+
+
+Rebalance
+
+Reconstitution
 
 Depository receipt(DR)
 
@@ -541,6 +581,29 @@ Operating concern:
 - Fulfill regulatory reqirements
 - Improve capital adequacy ratios
 - Ensure debt covenants
+
+### company analysis
+
+Industry analysis 
+
+for active investment
+
+portfolio performance
+
+
+Valuation:
+
+Sustainable growth rate = g = b × ROE
+
+b = (1 − Payout ratio)
+
+V0 = D0*(1+g)/(required return - g)
+
+### Margin call
+
+trigger price = Price *(1-inital margin)/(1- mantanence margin)
+
+leverage ratio =Asset/ Eqity =  1 / mantanence margin
 
 
 ## Fixed Income
@@ -561,6 +624,8 @@ Operating concern:
 - Nonsorvereign governments(State or city)
 - Quasi-government entities(Freddy and Fannie)
 - Supranational entities
+
+z spread is the difference between constant yield spread and government's spot curve
 
 ##### 1.2 Bond Maturities
 
@@ -587,6 +652,10 @@ Principle repaid at maturity
 Conventional bond (Plain vanilla): A bond with a fixed coupon rate
 
 Zero-coupon bonds (pure discount bonds): Bonds paying no interests prior to maturity
+
+Callable Bond
+
+when interest rates rise, the price of a callable bond will not fall as much as an otherwise option-free bond.
 
 ##### 1.5 Currencies
 Dual-currency bond: Bond with coupon interest in one currency and principle in another
@@ -695,6 +764,44 @@ External methods:
 Bonds issued by municipal governments in the U.S. exempt from income tax
 
 
+#### 5. Valuation
+
+bond-yield-plus-risk-premium approach
+
+adding a risk premium to the cost of debt 
+
+### CDO
+Tranche
+
+If the CDO manager fails to meet certain pre-specified tests, a provision is triggered that requires the payoff of the principal to the senior bond classes until the tests are satisfied.
+
+
+### priority of claims
+
+First lien
+Second Lien
+Senior secured
+Senior unsecured
+Senior subordinated debet
+Subordinated debt
+Junior subordinated debt
+
+## Derivative
+
+### Forward contract
+
+Valuation:
+
+Vt = St - F(T)/1+rf
+
+
+
+### Swap
+
+How swap contracts are similar to but different from a series of forward contracts?
+
+off-market forward contracts
+
 
 ## Alternative Investments
 
@@ -773,6 +880,7 @@ Valuation:
 Future price = spot price * (1+ risk-free rate) + storage costs - convenience yield
 
 Convenience yield: value of having the physical commodity for use over the period of the futures contract
+Benefits for the holder of the asset
 
 Sources of commodities futures returns:
 
