@@ -48,7 +48,72 @@
 6. 说说你的性格和最大的优点。
 7. 说说你的最大缺点。
 8. 领导力经历有哪些？
-9. 你还有什么要问的？
+9. 你有什么想要了解的？
+
+#### 自我介绍
+
+I’m Mingyu Li. I come from Johns Hopkins Carey Business School, majoring in Finance. I learned financial analysis skill and presentation skill through various internship experiences and my experience in drama club. Because of my studying in Shanghai and Washington D.C, I also have a cross-culture understanding between China and the United States. Due to my interest in photography, I can comprehensively view the faced problem and find unique insights about it.
+
+我叫李明宇，来自约翰霍普金斯大学，金融学硕士。
+
+金融机构面试：
+
+1. 熟悉外资银行业务，曾在大型外资银行企业银行从事
+2. 拥有良好的财务分析，本硕专业均为金融学，并且在多种类型的金融机构实习
+3. 组织能力与应急处理能力强，在学院组织并出演过多部话剧
+4. 具有良好的外语沟通素质与国际视野，研究生就读于美国前10名校并担任金融研讨社主席
+
+非金融机构面试：
+
+1. 组织能力与应急处理能力强，在大学话剧社组织并演出过多部话剧。
+2. 具有良好的外语沟通素质与国际视野，在约翰霍普金斯大学商学院担任金融研讨社主席。
+2. 拥有良好的问题分析能力，在互联网金融平台实习期间参与公司风险案例分析。
+3. 快速学习的能力，在机器学习的课程项目中，我花费两个星期学习了长短期记忆模型并应用于我们的项目上。
+
+
+
+
+#### 优点
+
+- 分析问题的能力：分解问题，抓主要矛盾（米筹金服：风险案例分析）
+
+
+- 快速学习能力：宜信，基金行业
+
+
+- 领导力经历
+
+
+#### 不足
+
+
+#### 未来发展
+
+
+#### 领导力经历
+
+- 话剧
+
+- 组织活动
+- 
+
+
+#### More questions
+
+不要做：
+
+- 不要问轻松找得到答案的问题。
+- 不要问薪酬。
+- 不要问太多关于某一个岗位的问题，别把自己限制死在一个岗位
+
+可以问的内容：
+
+- What a typical day look like? 典型的一天是什么样的？
+- What are the biggest challenges that someone in this position would face? 在这个岗位可能会面临的最大的挑战有哪些？
+- What are the career path in this company/department? 在这个公司/部门的升职路径是怎么样的？
+- What's your favorite aspect of working here? 在这家公司工作你最喜欢的方面是什么？
+- What are the next steps in the interview process? 接下来的面试流程是什么样的？
+- Advice for new candidates to the job 对于刚入职场的新人有什么建议？
 
 ### 苹果
 
@@ -96,6 +161,12 @@ Apple的文化介绍
 
 - 分享我的故事
 - 准备我的经历
+
+选择苹果的原因：
+
+选择这个岗位的原因：
+
+
 
 #### 苹果电话面试总结
 
